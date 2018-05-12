@@ -1,15 +1,21 @@
 _repo: De-ridders-van-den-halven-toren_48316
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wildschut, G.
     gutenberg_agent_id: '44733'
     url: http://www.gutenberg.org/2009/agents/44733
+covers:
+- cover_type: archival
+  image_path: 48316-h/images/cover.jpg
 creator:
   author:
     agent_name: Vletter, A. C. C. de
     gutenberg_agent_id: '44732'
     url: http://www.gutenberg.org/2009/agents/44732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48316#De-ridders-van-den-halven-toren
 gutenberg_issued: '2015-02-20'
 gutenberg_type: Text
 identifiers:
